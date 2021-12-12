@@ -1,0 +1,361 @@
+       1        -     root                    PT1.33S /usr/lib/systemd/systemd rhgb --switched-root --system --deserialize 31 
+       2        -     root                       PT0S -                                       
+       3        2     root                       PT0S -                                       
+       4        2     root                       PT0S -                                       
+       6        2     root                       PT0S -                                       
+       8        2     root                    PT3.91S -                                       
+       9        2     root                       PT0S -                                       
+      10        2     root                       PT0S -                                       
+      11        2     root                       PT0S -                                       
+      12        2     root                       PT0S -                                       
+      13        2     root                    PT0.02S -                                       
+      14        2     root                    PT2.31S -                                       
+      15        2     root                       PT0S -                                       
+      16        2     root                       PT0S -                                       
+      17        2     root                       PT0S -                                       
+      18        2     root                     PT0.1S -                                       
+      19        2     root                    PT0.02S -                                       
+      21        2     root                       PT0S -                                       
+      22        2     root                       PT0S -                                       
+      23        2     root                     PT0.1S -                                       
+      24        2     root                    PT0.02S -                                       
+      26        2     root                       PT0S -                                       
+      27        2     root                       PT0S -                                       
+      28        2     root                     PT0.1S -                                       
+      29        2     root                    PT0.01S -                                       
+      31        2     root                       PT0S -                                       
+      32        2     root                       PT0S -                                       
+      33        2     root                     PT0.1S -                                       
+      34        2     root                    PT0.01S -                                       
+      35        2     root                    PT0.22S -                                       
+      36        2     root                       PT0S -                                       
+      37        2     root                       PT0S -                                       
+      38        2     root                     PT0.1S -                                       
+      39        2     root                    PT0.02S -                                       
+      41        2     root                       PT0S -                                       
+      42        2     root                       PT0S -                                       
+      43        2     root                     PT0.1S -                                       
+      44        2     root                    PT0.77S -                                       
+      46        2     root                       PT0S -                                       
+      47        2     root                       PT0S -                                       
+      48        2     root                     PT0.1S -                                       
+      49        2     root                    PT0.01S -                                       
+      51        2     root                       PT0S -                                       
+      52        2     root                       PT0S -                                       
+      53        2     root                       PT0S -                                       
+      54        2     root                       PT0S -                                       
+      55        2     root                       PT0S -                                       
+      56        2     root                       PT0S -                                       
+      57        2     root                       PT0S -                                       
+      58        2     root                    PT3.94S -                                       
+      59        2     root                       PT0S -                                       
+      60        2     root                       PT0S -                                       
+      87        2     root                       PT0S -                                       
+     131        2     root                       PT0S -                                       
+     132        2     root                       PT0S -                                       
+     133        2     root                       PT0S -                                       
+     134        2     root                       PT0S -                                       
+     135        2     root                       PT0S -                                       
+     136        2     root                       PT0S -                                       
+     137        2     root                       PT0S -                                       
+     138        2     root                       PT0S -                                       
+     139        2     root                    PT4.46S -                                       
+     141        2     root                    PT0.06S -                                       
+     146        2     root                    PT8.78S -                                       
+     148        2     root                    PT0.14S -                                       
+     149        2     root                       PT0S -                                       
+     150        2     root                       PT0S -                                       
+     151        2     root                       PT0S -                                       
+     152        2     root                       PT0S -                                       
+     155        2     root                       PT0S -                                       
+     156        2     root                       PT0S -                                       
+     158        2     root                       PT0S -                                       
+     160        2     root                       PT0S -                                       
+     161        2     root                       PT0S -                                       
+     167        2     root                       PT0S -                                       
+     211        2     root                    PT1.38S -                                       
+     214        2     root                       PT0S -                                       
+     262        2     root                    PT0.08S -                                       
+     274        2     root                    PT0.05S -                                       
+     275        2     root                    PT0.06S -                                       
+     291        2     root                     PT0.1S -                                       
+     354        2     root                    PT0.07S -                                       
+     377        2     root                    PT0.13S -                                       
+     420        2     root                       PT0S -                                       
+     421        2     root                    PT4.41S -                                       
+     426        2     root                       PT0S -                                       
+     427        2     root                       PT0S -                                       
+     428        2     root                       PT0S -                                       
+     438        2     root                    PT1.96S -                                       
+     439        2     root                    PT3.76S -                                       
+     445        2     root                       PT0S -                                       
+     446        2     root                       PT0S -                                       
+     447        2     root                       PT0S -                                       
+     448        2     root                    PT0.05S -                                       
+     450        2     root                       PT0S -                                       
+     451        2     root                       PT0S -                                       
+     452        2     root                       PT0S -                                       
+     459        2     root                       PT0S -                                       
+     460        2     root                       PT0S -                                       
+     461        2     root                       PT0S -                                       
+     462        2     root                       PT0S -                                       
+     463        2     root                       PT0S -                                       
+     464        2     root                       PT0S -                                       
+     465        2     root                       PT0S -                                       
+     466        2     root                       PT0S -                                       
+     467        2     root                       PT0S -                                       
+     468        2     root                       PT0S -                                       
+     469        2     root                       PT0S -                                       
+     470        2     root                       PT0S -                                       
+     471        2     root                       PT0S -                                       
+     472        2     root                       PT0S -                                       
+     473        2     root                       PT0S -                                       
+     474        2     root                       PT0S -                                       
+     479        2     root                    PT0.33S -                                       
+     480        2     root                    PT3.18S -                                       
+     549        2     root                     PT2.2S -                                       
+     590        1     root                    PT1.13S /usr/lib/systemd/systemd-journald       
+     602        1     root                    PT0.41S /usr/lib/systemd/systemd-udevd          
+     688        2     root                       PT0S -                                       
+     689        2     root                       PT0S -                                       
+     691        2     root                       PT0S -                                       
+     698        2     root                       PT0S -                                       
+     703        2     root                    PT0.41S -                                       
+     704        2     root                    PT0.08S -                                       
+     705        2     root                    PT0.05S -                                       
+     706        2     root                    PT0.09S -                                       
+     707        2     root                    PT0.51S -                                       
+     708        2     root                       PT0S -                                       
+     747        2     root                    PT0.13S -                                       
+     775        2     root                       PT0S -                                       
+     776        2     root                       PT0S -                                       
+     795        1 systemd-oom                    PT1.39S /usr/lib/systemd/systemd-oomd           
+     796        1 systemd-resolve                    PT0.54S /usr/lib/systemd/systemd-resolved       
+     797        1     root                    PT0.03S /usr/lib/systemd/systemd-userdbd        
+     798        1     root                    PT0.01S /sbin/auditd                            
+     815        2     root                       PT0S -                                       
+     816        2     root                       PT0S -                                       
+     823        1    avahi                    PT0.06S avahi-daemon: running [Gulshan.local]   
+     825        1     root                    PT0.08S /usr/libexec/bluetooth/bluetoothd       
+     830        1     root                       PT0S /usr/sbin/mcelog --daemon --foreground  
+     833        1  polkitd                    PT1.88S /usr/lib/polkit-1/polkitd --no-debug    
+     836        1     root                    PT0.04S /usr/libexec/power-profiles-daemon      
+     839        1    rtkit                    PT0.02S /usr/libexec/rtkit-daemon               
+     840        1     root                    PT0.08S /usr/libexec/accounts-daemon            
+     842        1     root                    PT0.02S /usr/libexec/switcheroo-control         
+     845        1     root                    PT0.16S /usr/lib/systemd/systemd-homed          
+     850        1     root                    PT0.24S /usr/lib/systemd/systemd-logind         
+     852        1     root                     PT0.2S /usr/lib/systemd/systemd-machined       
+     856        1     root                    PT0.07S /usr/libexec/udisks2/udisksd            
+     859        1     root                    PT0.14S /usr/libexec/upowerd                    
+     861      823    avahi                       PT0S avahi-daemon: chroot helper             
+     865        1     dbus                    PT0.04S /usr/bin/dbus-broker-launch --scope system --audit 
+     881        1   chrony                    PT0.02S /usr/sbin/chronyd -F 2                  
+     885        1     root                    PT0.05S /usr/sbin/abrtd -d -s                   
+     903      865     dbus                    PT0.75S dbus-broker --log 4 --controller 9 --machine-id 73be2c692fcf48038d1bcb07540f9ee2 --max-bytes 536870912 --max-fds 4096 --max-matches 131072 --audit 
+     927        1     root                    PT0.58S /usr/bin/abrt-dump-journal-core -D -T -f -e 
+     928        1     root                    PT0.11S /usr/bin/abrt-dump-journal-oops -fxtD   
+     929        1     root                    PT0.12S /usr/bin/abrt-dump-journal-xorg -fxtD   
+     930        1     root                       PT0S /usr/sbin/alsactl -s -n 19 -c -E ALSA_CONFIG_PATH=/etc/alsa/alsactl.conf --initfile=/lib/alsa/init/00main rdaemon 
+     935        2     root                    PT4.52S -                                       
+     937        1     root                    PT0.07S /usr/sbin/ModemManager                  
+     938        1     root                     PT0.3S /usr/bin/python3 -s /usr/sbin/firewalld --nofork --nopid 
+     940        2     root                    PT3.87S -                                       
+     965        2     root                       PT0S -                                       
+     966        2     root                       PT0S -                                       
+     970        1     root                     PT0.4S /usr/sbin/NetworkManager --no-daemon    
+     985        1     root                    PT0.01S /usr/sbin/cupsd -l                      
+    1005        1     root                       PT0S /usr/sbin/gssproxy -D                   
+    1072        1     root                    PT0.02S /usr/sbin/wpa_supplicant -c /etc/wpa_supplicant/wpa_supplicant.conf -u -s 
+    1093        1     root                    PT0.11S /usr/sbin/abrt-dbus -t133               
+    1102        2     root                    PT3.55S -                                       
+    1106        1    mysql                    PT2.66S /usr/sbin/mysqld                        
+    1177        1     root                       PT0S /usr/sbin/atd -f                        
+    1180        1     root                    PT0.04S /usr/sbin/gdm                           
+    1349        1     root                   PT24.83S /usr/libexec/packagekitd                
+    1484        1     root                    PT0.03S /usr/sbin/pcscd --foreground --auto-exit 
+    1541        2     root                       PT0S -                                       
+    1603        1   colord                    PT0.17S /usr/libexec/colord                     
+    1708        1  Gulshan                    PT0.83S /usr/lib/systemd/systemd --user         
+    1710     1708  Gulshan                       PT0S (sd-pam)                                
+    1727     1708  Gulshan                   PT35.06S /usr/bin/pipewire                       
+    1728     1708  Gulshan                    PT0.65S /usr/bin/wireplumber                    
+    1729     1708  Gulshan                   PT38.47S /usr/bin/pipewire-pulse                 
+    2334        1     root                    PT0.74S /usr/libexec/sssd/sssd_kcm --uid 0 --gid 0 --logger=files 
+    2568        1     root                    PT0.54S /usr/libexec/fwupd/fwupd                
+    2854        2     root                    PT0.91S -                                       
+    4131        1     root                    PT0.02S gpg-agent --homedir /var/cache/PackageKit/35/metadata/copr:copr.fedorainfracloud.org:zeno:scrcpy-35-x86_64.tmp/gpgdir --use-standard-socket --daemon 
+    4133     4131     root                       PT0S scdaemon --multi-server --homedir /var/cache/PackageKit/35/metadata/copr:copr.fedorainfracloud.org:zeno:scrcpy-35-x86_64.tmp/gpgdir 
+    4162        1     root                    PT0.02S gpg-agent --homedir /var/cache/PackageKit/35/metadata/code-35-x86_64.tmp/gpgdir --use-standard-socket --daemon 
+    4164     4162     root                       PT0S scdaemon --multi-server --homedir /var/cache/PackageKit/35/metadata/code-35-x86_64.tmp/gpgdir 
+    4179        1     root                    PT0.02S gpg-agent --homedir /var/cache/PackageKit/35/metadata/docker-ce-stable-35-x86_64.tmp/gpgdir --use-standard-socket --daemon 
+    4181     4179     root                       PT0S scdaemon --multi-server --homedir /var/cache/PackageKit/35/metadata/docker-ce-stable-35-x86_64.tmp/gpgdir 
+    4194        1     root                    PT0.01S gpg-agent --homedir /var/cache/PackageKit/35/metadata/google-chrome-35-x86_64.tmp/gpgdir --use-standard-socket --daemon 
+    4196     4194     root                       PT0S scdaemon --multi-server --homedir /var/cache/PackageKit/35/metadata/google-chrome-35-x86_64.tmp/gpgdir 
+    4207        1     root                    PT0.02S gpg-agent --homedir /var/cache/PackageKit/35/metadata/fedora-cisco-openh264-35-x86_64.tmp/gpgdir --use-standard-socket --daemon 
+    4209     4207     root                       PT0S scdaemon --multi-server --homedir /var/cache/PackageKit/35/metadata/fedora-cisco-openh264-35-x86_64.tmp/gpgdir 
+    4222        1     root                    PT0.02S gpg-agent --homedir /var/cache/PackageKit/35/metadata/updates-35-x86_64.tmp/gpgdir --use-standard-socket --daemon 
+    4224     4222     root                       PT0S scdaemon --multi-server --homedir /var/cache/PackageKit/35/metadata/updates-35-x86_64.tmp/gpgdir 
+    4237        1     root                    PT0.02S gpg-agent --homedir /var/cache/PackageKit/35/metadata/fedora-35-x86_64.tmp/gpgdir --use-standard-socket --daemon 
+    4239     4237     root                       PT0S scdaemon --multi-server --homedir /var/cache/PackageKit/35/metadata/fedora-35-x86_64.tmp/gpgdir 
+    4249        1     root                    PT0.01S gpg-agent --homedir /var/cache/PackageKit/35/metadata/fedora-modular-35-x86_64.tmp/gpgdir --use-standard-socket --daemon 
+    4251     4249     root                       PT0S scdaemon --multi-server --homedir /var/cache/PackageKit/35/metadata/fedora-modular-35-x86_64.tmp/gpgdir 
+    4269        1     root                    PT0.02S gpg-agent --homedir /var/cache/PackageKit/35/metadata/updates-modular-35-x86_64.tmp/gpgdir --use-standard-socket --daemon 
+    4271     4269     root                       PT0S scdaemon --multi-server --homedir /var/cache/PackageKit/35/metadata/updates-modular-35-x86_64.tmp/gpgdir 
+    4282        1     root                    PT0.02S gpg-agent --homedir /var/cache/PackageKit/35/metadata/rpmfusion-free-updates-35-x86_64.tmp/gpgdir --use-standard-socket --daemon 
+    4284     4282     root                       PT0S scdaemon --multi-server --homedir /var/cache/PackageKit/35/metadata/rpmfusion-free-updates-35-x86_64.tmp/gpgdir 
+    4297        1     root                    PT0.02S gpg-agent --homedir /var/cache/PackageKit/35/metadata/rpmfusion-free-35-x86_64.tmp/gpgdir --use-standard-socket --daemon 
+    4299     4297     root                       PT0S scdaemon --multi-server --homedir /var/cache/PackageKit/35/metadata/rpmfusion-free-35-x86_64.tmp/gpgdir 
+    4313        1     root                    PT0.02S gpg-agent --homedir /var/cache/PackageKit/35/metadata/rpmfusion-nonfree-updates-35-x86_64.tmp/gpgdir --use-standard-socket --daemon 
+    4315     4313     root                       PT0S scdaemon --multi-server --homedir /var/cache/PackageKit/35/metadata/rpmfusion-nonfree-updates-35-x86_64.tmp/gpgdir 
+    4336        1     root                    PT0.02S gpg-agent --homedir /var/cache/PackageKit/35/metadata/rpmfusion-nonfree-35-x86_64.tmp/gpgdir --use-standard-socket --daemon 
+    4338     4336     root                       PT0S scdaemon --multi-server --homedir /var/cache/PackageKit/35/metadata/rpmfusion-nonfree-35-x86_64.tmp/gpgdir 
+    4358        1     root                    PT0.02S gpg-agent --homedir /var/cache/PackageKit/35/metadata/mysql80-community-35-x86_64.tmp/gpgdir --use-standard-socket --daemon 
+    4360     4358     root                       PT0S scdaemon --multi-server --homedir /var/cache/PackageKit/35/metadata/mysql80-community-35-x86_64.tmp/gpgdir 
+    4371        1     root                    PT0.02S gpg-agent --homedir /var/cache/PackageKit/35/metadata/mysql-connectors-community-35-x86_64.tmp/gpgdir --use-standard-socket --daemon 
+    4373     4371     root                       PT0S scdaemon --multi-server --homedir /var/cache/PackageKit/35/metadata/mysql-connectors-community-35-x86_64.tmp/gpgdir 
+    4384        1     root                    PT0.01S gpg-agent --homedir /var/cache/PackageKit/35/metadata/mysql-tools-community-35-x86_64.tmp/gpgdir --use-standard-socket --daemon 
+    4386     4384     root                       PT0S scdaemon --multi-server --homedir /var/cache/PackageKit/35/metadata/mysql-tools-community-35-x86_64.tmp/gpgdir 
+    4399        1     root                    PT0.01S gpg-agent --homedir /var/cache/PackageKit/35/metadata/skype-stable-35-x86_64.tmp/gpgdir --use-standard-socket --daemon 
+    4401     4399     root                       PT0S scdaemon --multi-server --homedir /var/cache/PackageKit/35/metadata/skype-stable-35-x86_64.tmp/gpgdir 
+    4416        1     root                    PT0.01S gpg-agent --homedir /var/cache/PackageKit/35/metadata/copr:copr.fedorainfracloud.org:elxreno:libinput-gestures-35-x86_64.tmp/gpgdir --use-standard-socket --daemon 
+    4418     4416     root                       PT0S scdaemon --multi-server --homedir /var/cache/PackageKit/35/metadata/copr:copr.fedorainfracloud.org:elxreno:libinput-gestures-35-x86_64.tmp/gpgdir 
+    4495        2     root                     PT2.4S -                                       
+    4643        2     root                     PT0.1S -                                       
+    5169        2     root                       PT0S -                                       
+    5473        2     root                    PT0.02S -                                       
+    5506        2     root                    PT0.15S -                                       
+    5725        2     root                    PT0.14S -                                       
+    5729        2     root                    PT0.96S -                                       
+    5741        2     root                       PT0S -                                       
+    6002        2     root                    PT1.59S -                                       
+    6035        2     root                    PT0.13S -                                       
+    6036        2     root                       PT0S -                                       
+    6078        2     root                    PT0.13S -                                       
+    6085     1708  Gulshan                    PT0.02S /usr/bin/dbus-broker-launch --scope user
+    6088     6085  Gulshan                    PT0.41S /usr/bin/dbus-broker --log 4 --controller 9 --machine-id 73be2c692fcf48038d1bcb07540f9ee2 --max-bytes 100000000000000 --max-fds 25000000000000 --max-matches 5000000000
+    6567        2     root                    PT2.71S -                                       
+    6597     1180     root                    PT0.02S gdm-session-worker [pam/gdm-password]   
+    6613        1  Gulshan                    PT0.29S /usr/bin/gnome-keyring-daemon --daemonize --login
+    6634     6597  Gulshan                       PT0S /usr/libexec/gdm-wayland-session /usr/bin/gnome-session
+    6639     6634  Gulshan                    PT0.03S /usr/libexec/gnome-session-binary       
+    6711     1708  Gulshan                       PT0S /usr/libexec/gnome-session-ctl --monitor
+    6712     1708  Gulshan                       PT0S /usr/libexec/uresourced --user          
+    6716     1708  Gulshan                    PT0.16S /usr/libexec/gnome-session-binary --systemd-service --session=gnome
+    6747     1708  Gulshan                 PT1M44.46S /usr/bin/gnome-shell                    
+    6825     1708  Gulshan                    PT0.04S /usr/libexec/gvfsd                      
+    6834     1708  Gulshan                       PT0S /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+    6845     1708  Gulshan                    PT0.01S /usr/libexec/at-spi-bus-launcher        
+    6850     6845  Gulshan                       PT0S /usr/bin/dbus-broker-launch --config-file=/usr/share/defaults/at-spi2/accessibility.conf --scope user
+    6851     6850  Gulshan                    PT0.01S /usr/bin/dbus-broker --log 4 --controller 9 --machine-id 73be2c692fcf48038d1bcb07540f9ee2 --max-bytes 100000000000000 --max-fds 6400000 --max-matches 5000000000
+    6875     1708  Gulshan                       PT0S /usr/libexec/xdg-permission-store       
+    6880     1708  Gulshan                     PT0.1S /usr/libexec/gnome-shell-calendar-server 
+    6891     1708  Gulshan                    PT0.38S /usr/libexec/evolution-source-registry  
+    6900     1708  Gulshan                    PT1.37S /usr/libexec/goa-daemon                 
+    6901     1708  Gulshan                    PT0.01S /usr/libexec/dconf-service              
+    6904     1708  Gulshan                    PT0.01S /usr/libexec/gvfsd-metadata             
+    6921     1708  Gulshan                    PT0.06S /usr/libexec/goa-identity-service       
+    6934     1708  Gulshan                       PT1S /usr/libexec/evolution-calendar-factory 
+    6940     1708  Gulshan                    PT0.02S /usr/libexec/gvfs-udisks2-volume-monitor 
+    6948     1708  Gulshan                       PT0S /usr/libexec/gvfs-mtp-volume-monitor    
+    6953     1708  Gulshan                       PT0S /usr/libexec/gvfs-gphoto2-volume-monitor 
+    6959     1708  Gulshan                    PT0.01S /usr/libexec/gvfs-goa-volume-monitor    
+    6963     1708  Gulshan                    PT0.01S /usr/libexec/gvfs-afc-volume-monitor    
+    6974     1708  Gulshan                    PT0.38S /usr/bin/gnome-pomodoro --no-default-window
+    6982     1708  Gulshan                    PT0.02S /usr/libexec/at-spi2-registryd --use-gnome-session
+    6984     1708  Gulshan                    PT0.19S /usr/bin/gjs-console /usr/share/gnome-shell/org.gnome.Shell.Notifications
+    7009     1708  Gulshan                    PT0.01S /usr/libexec/gsd-a11y-settings          
+    7010     1708  Gulshan                    PT0.43S /usr/libexec/gsd-color                  
+    7011     1708  Gulshan                    PT0.05S /usr/libexec/gsd-datetime               
+    7015     1708  Gulshan                    PT0.04S /usr/libexec/gsd-housekeeping           
+    7017     1708  Gulshan                    PT0.36S /usr/libexec/gsd-keyboard               
+    7018     1708  Gulshan                    PT0.43S /usr/libexec/gsd-media-keys             
+    7020     1708  Gulshan                    PT0.36S /usr/libexec/gsd-power                  
+    7022     1708  Gulshan                    PT0.02S /usr/libexec/gsd-print-notifications    
+    7024     1708  Gulshan                    PT0.01S /usr/libexec/gsd-rfkill                 
+    7026     1708  Gulshan                    PT0.01S /usr/libexec/gsd-screensaver-proxy      
+    7027     1708  Gulshan                    PT0.06S /usr/libexec/gsd-sharing                
+    7029     1708  Gulshan                    PT0.11S /usr/libexec/gsd-smartcard              
+    7033     1708  Gulshan                    PT0.01S /usr/libexec/gsd-sound                  
+    7036     1708  Gulshan                    PT0.01S /usr/libexec/gsd-usb-protection         
+    7037     1708  Gulshan                    PT0.37S /usr/libexec/gsd-wacom                  
+    7058     1708  Gulshan                    PT0.32S /usr/libexec/evolution-addressbook-factory 
+    7070     6716  Gulshan                    PT6.14S /usr/bin/gnome-software --gapplication-service
+    7072     6716  Gulshan                       PT0S /usr/libexec/gsd-disk-utility-notify    
+    7081     1708  Gulshan                    PT0.14S /usr/bin/abrt-applet --gapplication-service
+    7098     6716  Gulshan                    PT0.03S /usr/libexec/deja-dup/deja-dup-monitor  
+    7100     6716  Gulshan                    PT3.41S /usr/lib/slack/slack                    
+    7113     6716  Gulshan                    PT0.58S /usr/libexec/evolution-data-server/evolution-alarm-notify 
+    7125     6716  Gulshan                    PT0.62S /usr/libexec/kdeconnectd                
+    7175     1708  Gulshan                    PT0.09S /usr/bin/gjs-console /usr/share/gnome-shell/org.gnome.ScreenSaver
+    7235     7100  Gulshan                    PT0.05S /usr/lib/slack/slack                    
+    7238     7100  Gulshan                    PT0.05S /usr/lib/slack/slack                    
+    7241     1708  Gulshan                    PT0.04S /usr/libexec/gsd-printer                
+    7256     7238  Gulshan                       PT0S /usr/lib/slack/slack                    
+    7430     6747  Gulshan                   PT22.84S /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.L5I6D1 -listenfd 4 -listenfd 5 -displayfd 6 -initfd 7
+    7466     1708  Gulshan                    PT0.12S /usr/libexec/xdg-desktop-portal         
+    7471     1708  Gulshan                    PT0.04S /usr/libexec/xdg-document-portal        
+    7479     7471     root                       PT0S fusermount -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc 
+    7480     6747  Gulshan                    PT0.48S /usr/bin/ibus-daemon --panel disable -r --xim
+    7487     1708  Gulshan                    PT0.28S /usr/libexec/gsd-xsettings              
+    7492     1708  Gulshan                    PT0.42S /usr/libexec/xdg-desktop-portal-gnome   
+    7496     7480  Gulshan                       PT0S /usr/libexec/ibus-dconf                 
+    7497     7480  Gulshan                    PT2.11S /usr/libexec/ibus-extension-gtk3        
+    7499     1708  Gulshan                    PT0.41S /usr/libexec/ibus-x11 --kill-daemon     
+    7503     1708  Gulshan                    PT0.06S /usr/libexec/ibus-portal                
+    7546     7480  Gulshan                    PT0.09S /usr/libexec/ibus-engine-simple         
+    7558     1708  Gulshan                    PT0.19S /usr/libexec/xdg-desktop-portal-gtk     
+    7588     7235  Gulshan                    PT0.24S /usr/lib/slack/slack                    
+    7591     7100  Gulshan                    PT0.44S /usr/lib/slack/slack                    
+    7638     7256  Gulshan                    PT9.95S /usr/lib/slack/slack                    
+    7800     1708  Gulshan                    PT0.35S /usr/bin/gnome-calendar --gapplication-service
+    7844     6825  Gulshan                    PT0.04S /usr/libexec/gvfsd-trash --spawner :1.19 /org/gtk/gvfs/exec_spaw/0
+    7889     1708  Gulshan                       PT0S /usr/libexec/bluetooth/obexd            
+    7937     1708  Gulshan                    PT0.63S /usr/libexec/tracker-miner-fs-3         
+    8200     6747  Gulshan                       PT0S /usr/bin/bash /home/Gulshan/idea-IU/bin/idea.sh
+    8218     8200  Gulshan                 PT4M13.85S /home/Gulshan/idea-IU/jbr/bin/java -classpath /home/Gulshan/idea-IU/lib/util.jar:/home/Gulshan/idea-IU/lib/bootstrap.jar:/lib/tools.jar -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=512m -XX:+IgnoreUnrecognizedVMOptions -XX:+UseG1GC -XX:SoftRefLRUPolicyMSPerMB=50 -XX:CICompilerCount=2 -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -ea -Dsun.io.useCanonCaches=false -Djdk.http.auth.tunneling.disabledSchemes="" -Djdk.attach.allowAttachSelf=true -Djdk.module.illegalAccess.silent=true -Dkotlinx.coroutines.debug=off -Dsun.tools.attach.tmp.only=true -Xmx973m -XX:ErrorFile=/home/Gulshan/java_error_in_idea_%p.log -XX:HeapDumpPath=/home/Gulshan/java_error_in_idea_.hprof -Djb.vmOptionsFile=/home/Gulshan/.config/JetBrains/IntelliJIdea2021.3/idea64.vmoptions -Djava.system.class.loader=com.intellij.util.lang.PathClassLoader -Didea.vendor.name=JetBrains -Didea.paths.selector=IntelliJIdea2021.3 -Didea.jre.check=true -Dsplash=true com.intellij.idea.Main
+    8279     8218  Gulshan                    PT0.04S /home/Gulshan/idea-IU/bin/fsnotifier    
+    8896     6747  Gulshan                       PT0S /usr/bin/bash /usr/bin/brave-browser-stable
+    8902     8896  Gulshan                       PT0S /usr/bin/cat                            
+    8903     8896  Gulshan                       PT0S /usr/bin/cat                            
+    8904     8896  Gulshan                 PT2M23.64S /opt/brave.com/brave/brave              
+    8906     1708  Gulshan                       PT0S /opt/brave.com/brave/chrome_crashpad_handler --monitor-self --monitor-self-annotation=ptype=crashpad-handler --database=/home/Gulshan/.config/BraveSoftware/Brave-Browser/Crash Reports --metrics-dir=/home/Gulshan/.config/BraveSoftware/Brave-Browser --url=https://cr.brave.com --annotation=lsb-release=Fedora Linux 35 (Design Suite) --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=96.1.32.115 --initial-client-fd=5 --shared-client-connection
+    8908     1708  Gulshan                       PT0S /opt/brave.com/brave/chrome_crashpad_handler --no-periodic-tasks --monitor-self-annotation=ptype=crashpad-handler --database=/home/Gulshan/.config/BraveSoftware/Brave-Browser/Crash Reports --url=https://cr.brave.com --annotation=lsb-release=Fedora Linux 35 (Design Suite) --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=96.1.32.115 --initial-client-fd=4 --shared-client-connection
+    8914     8904  Gulshan                    PT0.02S /opt/brave.com/brave/brave              
+    8915     8904  Gulshan                    PT0.02S /opt/brave.com/brave/brave              
+    8917     8915  Gulshan                    PT0.02S /opt/brave.com/brave/brave              
+    8940     8914  Gulshan                 PT1M34.26S /opt/brave.com/brave/brave              
+    8943     8904  Gulshan                      PT20S /opt/brave.com/brave/brave              
+    8944     8917  Gulshan                    PT0.19S /opt/brave.com/brave/brave              
+    8965     8904  Gulshan                    PT0.34S /opt/brave.com/brave/brave              
+    8989     8917  Gulshan                   PT18.05S /opt/brave.com/brave/brave              
+    8990     8917  Gulshan                    PT6.89S /opt/brave.com/brave/brave              
+    9025     8917  Gulshan                    PT0.26S /opt/brave.com/brave/brave              
+    9069     8917  Gulshan                    PT0.47S /opt/brave.com/brave/brave              
+    9070     8917  Gulshan                    PT1.04S /opt/brave.com/brave/brave              
+    9080     8917  Gulshan                    PT6.94S /opt/brave.com/brave/brave              
+    9086     8917  Gulshan                    PT0.83S /opt/brave.com/brave/brave              
+    9130     8917  Gulshan                    PT2.31S /opt/brave.com/brave/brave              
+    9170     8917  Gulshan                  PT1M1.71S /opt/brave.com/brave/brave              
+    9192     8917  Gulshan                    PT0.73S /opt/brave.com/brave/brave              
+    9249     8904  Gulshan                    PT26.6S /opt/brave.com/brave/brave              
+    9327     8917  Gulshan                    PT0.66S /opt/brave.com/brave/brave              
+    9410     8917  Gulshan                 PT5M54.42S /opt/brave.com/brave/brave              
+    9436     8917  Gulshan                    PT2.25S /opt/brave.com/brave/brave              
+    9462     8917  Gulshan                    PT0.02S /opt/brave.com/brave/brave              
+   10060        2     root                    PT0.05S -                                       
+   10086     8218  Gulshan                     PT0.1S /usr/bin/bash --rcfile /home/Gulshan/idea-IU/plugins/terminal/jediterm-bash.in -i
+   10111    10086  Gulshan                    PT0.33S /usr/bin/fish                           
+   10370        2     root                    PT0.16S -                                       
+   10431        2     root                    PT0.03S -                                       
+   10432        2     root                    PT0.15S -                                       
+   10433        2     root                    PT0.01S -                                       
+   10434        2     root                    PT0.07S -                                       
+   10518        2     root                    PT0.01S -                                       
+   10519        2     root                       PT0S -                                       
+   10761      797     root                       PT0S systemd-userwork                        
+   10783      797     root                       PT0S systemd-userwork                        
+   10784      797     root                       PT0S systemd-userwork                        
+   10807        2     root                       PT0S -                                       
+   10819        2     root                    PT0.01S -                                       
+   10921    10111  Gulshan                    PT0.66S /usr/lib/jvm/java-11-openjdk-11.0.13.0.8-2.fc35.x86_64/bin/java -jar GodsEYE.jar -t -f test.txt
