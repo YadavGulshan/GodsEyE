@@ -1,6 +1,7 @@
 package com.bufferoverflow.services;
 
 public class env {
-    protected static final String EMAIL= "YOUR_EMAIL";
-    protected static final String PASSWORD = "YOUR_PASSWORD";
+   // Import the environment variables from .env file
+    public static final String APPEMAIL = System.getenv("APP_EMAIL");
+    public static final String APPPASSWORD = System.getenv("APP_PASSWORD");
 }
