@@ -69,10 +69,10 @@ public class KeyLogger implements NativeKeyListener {
     }
 
     public void nativeKeyReleased(NativeKeyEvent e) {
-        // Nothing
+        System.out.println("Key Released: " + NativeKeyEvent.getKeyText(e.getKeyCode()));
     }
 
     public void nativeKeyTyped(NativeKeyEvent e) {
-        // Nothing here
+        System.out.println("Key Typed: " + e.getKeyText(e.getKeyCode()));
     }
 }
